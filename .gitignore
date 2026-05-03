@@ -1,0 +1,48 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Model checkpoints and weights (too large for GitHub)
+#*.pth
+#*.pt
+*.onnx
+
+# Compressed files
+*.zip
+*.tar.gz
+*.rar
+
+# Temporary or intermediate text/log files
+doc_content.txt
+doc_content_with_tables.txt
+paper_content.txt
+paper_content_full.txt
+paper_tables.txt
+*.log
+
+# Sensitive environment and key files
+.env
+.env.local
+secrets.json
+
+# Utility scripts created for Hugging Face migration
+strip_keys.py
+replace_token.py
+upload_to_hf.py
+upload_images.py
+update_name.py
+
+# OS generated files
+.DS_Store
+Thumbs.db
+.ACCESS_latex_template_20240429
+.elsarticle
+.extracted_docx_media
+
+Quantum_LPR_Research_Paper.docx
+
+

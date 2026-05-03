@@ -1,0 +1,29 @@
+Dear Editor-in-Chief,
+
+We are pleased to submit our manuscript entitled "Quantum-Enhanced Deep Learning for Robust Night-Time License Plate Recognition: A Hybrid Quantum-Classical Neural Network with 8-Qubit Variational Circuit, Zero-DCE Enhancement, and CTC Sequence Decoding" for consideration as a regular research article in IEEE Access.
+
+This paper addresses a critical gap in current visual recognition systems by introducing HybridLPRNet_8Q, a novel architecture that integrates a lightweight Zero-DCE low-light enhancement module with an 8-qubit Variational Quantum Circuit (VQC) and a Bidirectional LSTM-CTC decoder. 
+
+Our main contributions are as follows:
+1. We successfully implement a sequential variable-length recognizer utilizing a VQC mid-layer, moving beyond the fixed-length classification tasks that dominate current Quantum Machine Learning (QML) vision literature.
+2. We demonstrate the first instance of coordinated, joint training of a quantum recognizer and an image enhancer, where the enhancement curve is influenced directly by the quantum gradient signal.
+3. We conduct a rigorous, fair empirical comparison between our VQC model and a structurally equivalent classical baseline across 100,000 real-world images from the RodoSol-ALPR dataset. 
+4. We provide deep insights into emergent qubit specialization, demonstrating how individual qubits adapt to extract specific visual features—a novel finding in quantum interpretability.
+
+We believe that our findings and the reproducible nature of our work—facilitated by our shared Hugging Face repositories—make this manuscript highly relevant to the diverse and forward-looking readership of IEEE Access. 
+
+We confirm that this manuscript is original, has not been published elsewhere, and is not currently under consideration by any other journal. All authors have approved the manuscript and agree with its submission to IEEE Access.
+
+Thank you for your time and consideration. We look forward to your response.
+
+Sincerely,
+
+Sreenivasa Reddy Edara
+Senior Professor (HAG), School of Computer Science and Engineering (SCOPE)
+VIT-AP University, Amaravati, Andhra Pradesh, India
+Email: sreenivasareddy.e@vitap.ac.in
+
+Shanmukesh Bonala
+B.Tech. Student, School of Computer Science and Engineering (SCOPE)
+VIT-AP University, Amaravati, Andhra Pradesh, India
+Email: Shanmukesh.23BCE20070@vitapstudent.ac.in

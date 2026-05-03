@@ -1,0 +1,16 @@
+TITLE PAGE
+
+Article Title:
+Quantum-Enhanced Deep Learning for Robust Night-Time License Plate Recognition: A Hybrid Quantum-Classical Neural Network with 8-Qubit Variational Circuit, Zero-DCE Enhancement, and CTC Sequence Decoding
+
+Authors:
+
+1. Sreenivasa Reddy Edara (Corresponding Author)
+Affiliation: Senior Professor (HAG), School of Computer Science and Engineering (SCOPE), VIT-AP University, Amaravati, Andhra Pradesh, India, 522241
+Email: sreenivasareddy.e@vitap.ac.in
+ORCID: 0000-0001-7347-2680
+
+2. Shanmukesh Bonala
+Affiliation: B.Tech. Student, School of Computer Science and Engineering (SCOPE), VIT-AP University, Amaravati, Andhra Pradesh, India, 522241
+Email: Shanmukesh.23BCE20070@vitapstudent.ac.in
+ORCID: 0009-0008-3651-4077
